@@ -10,7 +10,7 @@ demo1
 
 windows2
 windows1
-
+<!--example of fetch and merge-->
 <<<<<<< HEAD
 merge 2 linux
 =======
