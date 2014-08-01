@@ -16,5 +16,11 @@ merge 2 linux
 =======
 merge 1 -windows
 >>>>>>> origin/master
+
+<<<<<<< HEAD
+rebase1 -windows
+=======
+rebase 2 linux
+>>>>>>> rebase 2 demo
 </body>
 </html>
